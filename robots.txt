@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-prn9gi.salamcuanwin.xyz/sitemap.xml
